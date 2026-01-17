@@ -13,4 +13,4 @@ __pycache__/
 Thumbs.db
 
 
-.ipynb_checkpoints
+*.ipynb_checkpoints
