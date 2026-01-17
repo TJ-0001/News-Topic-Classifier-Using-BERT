@@ -9,7 +9,7 @@ Fine-tune a transformer-based model (DistilBERT) to classify news headlines from
 ## Dataset
 
 * **Name:** AG News
-* **Source:** [Hugging Face Datasets](https://huggingface.co/datasets/ag_news)
+* **Source:** [Hugging Face Datasets](https://huggingface.co/datasets/sh0416/ag_news)
 * **Columns:**
 
   * `text` — news headline
